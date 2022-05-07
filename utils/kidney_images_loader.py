@@ -2,7 +2,6 @@
 Script that contains Siamese and TripleDataset classes that create combinations used to train those models
 """
 import os
-import time
 import pandas as pd
 import torch
 from torch.utils.data import Dataset, Sampler
